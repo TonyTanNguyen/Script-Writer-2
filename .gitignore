@@ -1,0 +1,9 @@
+.DS_Store
+
+# G-Labs media pipeline
+# local API key + base URL — never commit
+.glabs.json
+# generated image output (refs/ + scenes/ + manifest.json)
+*_media/
+__pycache__/
+.pytest_cache/

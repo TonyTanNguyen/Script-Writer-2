@@ -1,0 +1,3 @@
+# Anti-repeat ledger — one line per core situation already produced.
+# Only /write-batch appends here, and only when a script is actually written.
+# Idea generation reads this but never writes it (so discarded ideas don't pollute it).
