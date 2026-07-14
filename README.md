@@ -48,6 +48,7 @@ agents, commands) plus one small Python image-generation tool.
 
 ## Read next
 
+- `HOW-TO-ADD-A-NICHE.md` — step-by-step: turn a master prompt into a working niche.
 - `CLAUDE.md` — the full architecture (three-layer design, count contract, `@tag` contract).
 - `example-niche/README.md` — how a niche brain is built, layer by layer.
 - `docs/generate-media-design.md` — how `tools/glabs` works.
